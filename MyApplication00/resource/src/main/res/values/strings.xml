@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">resource</string>
+    <!--定义string类型的资源-->
+    <string name="string1">在XML中使用string</string>
+    <string name="string2">在java中使用string</string>
+</resources>

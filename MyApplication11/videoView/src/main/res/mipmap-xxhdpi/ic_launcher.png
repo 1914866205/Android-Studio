@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="846b77ca-972c-4807-ae33-e90a9c8bc462" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soundpool/src/main/java/xi/lian/soundpool/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\lenovo\.gradle\wrapper\dists\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.6" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="MyApplication11" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="MyApplication11" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":actionbar_tab" />
+                <option name="path" value="$PROJECT_DIR$/actionbar_tab" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":actionview" />
+                <option name="path" value="$PROJECT_DIR$/actionview" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":aliiarmmanager" />
+                <option name="path" value="$PROJECT_DIR$/aliiarmmanager" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":alterdialog" />
+                <option name="path" value="$PROJECT_DIR$/alterdialog" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":animationdrawable" />
+                <option name="path" value="$PROJECT_DIR$/animationdrawable" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":broadcastreceiver" />
+                <option name="path" value="$PROJECT_DIR$/broadcastreceiver" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":bujiandonghua" />
+                <option name="path" value="$PROJECT_DIR$/bujiandonghua" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":bujiandonghuatest" />
+                <option name="path" value="$PROJECT_DIR$/bujiandonghuatest" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":cengjishidaohang" />
+                <option name="path" value="$PROJECT_DIR$/cengjishidaohang" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":musicmediaplay" />
+                <option name="path" value="$PROJECT_DIR$/musicmediaplay" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":musicmediaplaytest" />
+                <option name="path" value="$PROJECT_DIR$/musicmediaplaytest" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":notification" />
+                <option name="path" value="$PROJECT_DIR$/notification" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":paint" />
+                <option name="path" value="$PROJECT_DIR$/paint" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":paintpath" />
+                <option name="path" value="$PROJECT_DIR$/paintpath" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":painttext" />
+                <option name="path" value="$PROJECT_DIR$/painttext" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":paintview" />
+                <option name="path" value="$PROJECT_DIR$/paintview" />
+              </ExternalProjectPojo>
+              <ExternalProje

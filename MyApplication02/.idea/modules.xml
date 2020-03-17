@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication02.iml" filepath="$PROJECT_DIR$/MyApplication02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundmusic/backgroundmusic.iml" filepath="$PROJECT_DIR$/backgroundmusic/backgroundmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boundservice/boundservice.iml" filepath="$PROJECT_DIR$/boundservice/boundservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamejindutiao/gamejindutiao.iml" filepath="$PROJECT_DIR$/gamejindutiao/gamejindutiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler/handler.iml" filepath="$PROJECT_DIR$/handler/handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_massage/handler_massage.iml" filepath="$PROJECT_DIR$/handler_massage/handler_massage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looper/looper.iml" filepath="$PROJECT_DIR$/looper/looper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>

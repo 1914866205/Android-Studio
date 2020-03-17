@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/addword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="单词"/>
+    <EditText
+        android:id="@+id/addinterpret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="解释"/>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+
+       <Button
+           android:id="@+id/save"
+           android:text="保存"
+           android:layout_width="50dp"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"/>
+       <Button
+           android:id="@+id/canel"
+           android:text="取消"
+           android:layout_width="50dp"
+           android:layout_weight="1"
+           android:layout_height="wrap_content" />
+          </LinearLayout>
+</LinearLayout>

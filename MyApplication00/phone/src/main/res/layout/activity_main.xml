@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="手机号： 18851855106"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:text="邮箱：1914866205@qq.com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+    <ImageButton
+        android:id="@+id/phone01"
+        android:src="@mipmap/phone"
+        android:paddingTop="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="fitXY"/>
+
+    <ImageButton
+        android:id="@+id/sms01"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="fitXY"
+        android:paddingTop="80dp"
+        android:src="@mipmap/duanxin" />
+</LinearLayout>

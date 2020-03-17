@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/backgroundmusic" />
+            <option value="$PROJECT_DIR$/boundservice" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/gamejindutiao" />
+            <option value="$PROJECT_DIR$/handler" />
+            <option value="$PROJECT_DIR$/handler_massage" />
+            <option value="$PROJECT_DIR$/intentservice" />
+            <option value="$PROJECT_DIR$/looper" />
+            <option value="$PROJECT_DIR$/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

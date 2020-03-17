@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj"
+    android:stretchColumns="0,3"
+    tools:context=".demo2">
+
+    <TableRow
+        android:layout_marginTop="300sp"
+        >
+        <TextView />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="账  号："
+            android:textSize="18sp"
+            android:textColor="#f60efa"
+            android:gravity="center_horizontal"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="邮箱或手机号"
+            android:textColor="#f60efa"
+            />
+        <TextView />
+    </TableRow>
+    <TableRow>
+    <TextView />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="密  码："
+        android:textSize="18sp"
+        android:textColor="#f60efa"
+        android:gravity="center_horizontal"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入6-16位数字或字母"
+        android:textColor="#f60efa"
+        />
+    <TextView />
+    </TableRow>
+    <TableRow>
+        <TextView />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注  册："
+            android:textColor="#f60efa"
+            android:textSize="18sp"
+            android:gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="登  录"
+            android:background="#6e0c2e" />
+        <TextView />
+    </TableRow>
+    <TableRow
+        android:paddingTop="20dp">
+        <TextView />
+        <TextView />
+        <TextView
+            android:id="@+id/wangmima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="忘记密码？"
+            android:textColor="#FF4500"
+            android:gravity="right"
+            />
+    </TableRow>
+
+
+
+</TableLayout>

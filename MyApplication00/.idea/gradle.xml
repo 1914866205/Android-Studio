@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Seekbar" />
+            <option value="$PROJECT_DIR$/actionbar0" />
+            <option value="$PROJECT_DIR$/actionitem" />
+            <option value="$PROJECT_DIR$/activitydetail" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bundle" />
+            <option value="$PROJECT_DIR$/camproj" />
+            <option value="$PROJECT_DIR$/chromometer" />
+            <option value="$PROJECT_DIR$/component" />
+            <option value="$PROJECT_DIR$/danxuan" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/flags" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/gesturedetector" />
+            <option value="$PROJECT_DIR$/gohome2" />
+            <option value="$PROJECT_DIR$/imageswitch" />
+            <option value="$PROJECT_DIR$/intentguolvqi" />
+            <option value="$PROJECT_DIR$/liginpassword" />
+            <option value="$PROJECT_DIR$/log" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/loginActivity" />
+            <option value="$PROJECT_DIR$/ontouch00" />
+            <option value="$PROJECT_DIR$/ontouch_and_onclick" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/photo" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/ratingbar" />
+            <option value="$PROJECT_DIR$/resource" />
+            <option value="$PROJECT_DIR$/scroll" />
+            <option value="$PROJECT_DIR$/seekbarlvjing" />
+            <option value="$PROJECT_DIR$/sensormanager" />
+            <option value="$PROJECT_DIR$/simple_adapter" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/startactivityforresult" />
+            <option value="$PROJECT_DIR$/statelistdrawlable" />
+            <option value="$PROJECT_DIR$/tabfragment" />
+            <option value="$PROJECT_DIR$/taphost" />
+            <option value="$PROJECT_DIR$/timepicker" />
+            <option value="$PROJECT_DIR$/vsensormanager" />
+            <option value="$PROJECT_DIR$/yinshiintent" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

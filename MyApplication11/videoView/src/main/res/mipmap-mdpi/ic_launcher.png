@@ -1,0 +1,41 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="35" />
+      <entry action="$Cut" count="18" />
+      <entry action="$Delete" count="33" />
+      <entry action="$Paste" count="122" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="1952" />
+      <entry action="About" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="2" />
+      <entry action="Android Profiler" count="2" />
+      <entry action="Android.BuildApk" count="3" />
+      <entry action="Android.RunAndroidAvdManager" count="22" />
+      <entry action="Android.RunAndroidSdkManager" count="13" />
+      <entry action="Android.SyncProject" count="5" />
+      <entry action="AndroidConnectDebuggerAction" count="10" />
+      <entry action="CPP.NewCppFile" count="1" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CleanGradleProject" count="28" />
+      <entry action="CloseAllEditors" count="12" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CollapseRegion" count="6" />
+      <entry action="CollapseTreeNode" count="15" />
+      <entry action="CommentByLineComment" count="47" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Debug" count="1" />
+      <entry action="DebugClass" count="4" />
+      <entry action="Debugger.EditFrameSource" count="25" />
+      <entry action="DeveloperServices.ConnectionAssistant" count="1" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="DialogCancelAction Esc" count="4" />
+      <entry action="DialogOkAction Ctrl" count="1" />
+      <entry action="DialogOkAction Ctrl+Enter" count="2" />
+      <entry action="DialogOkAction Enter" count="225" />
+      <entry action="EditorBackSpace" count="13279" />
+      <entry action="EditorChooseLookupItem" count="4063" />
+      <entry action="EditorChooseLookupItemCompleteStatement" count="1" />
+      <

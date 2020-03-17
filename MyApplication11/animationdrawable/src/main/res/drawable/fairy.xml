@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--动画资源文件-->
+    <item android:drawable="@drawable/i1" android:duration="60"/>
+    <item android:drawable="@drawable/i2" android:duration="60"/>
+    <item android:drawable="@drawable/i3" android:duration="60"/>
+    <item android:drawable="@drawable/i4" android:duration="60"/>
+    <item android:drawable="@drawable/i5" android:duration="60"/>
+    <item android:drawable="@drawable/i6" android:duration="60"/>
+</animation-list>

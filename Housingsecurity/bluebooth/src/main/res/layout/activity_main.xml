@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xi.lian.bluebooth.MainActivity">
+
+    <Button
+        android:id="@+id/is_support_blue_tooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="是否支持蓝牙"
+        tools:onClick="isSupportBlueTooth" />
+
+    <Button
+        android:id="@+id/is_blue_tooth_enablem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="当前蓝牙状态是否打开"
+        tools:onClick="isBlueToothEnable" />
+
+    <Button
+        android:id="@+id/turn_on__blue_tooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="打开蓝牙"
+        tools:onClick="requestTurnOnBlueTooth" />
+
+    <Button
+        android:id="@+id/turn_off_blue_tooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="关闭蓝牙"
+        tools:onClick="turnOffBlueTooth" />
+</LinearLayout>

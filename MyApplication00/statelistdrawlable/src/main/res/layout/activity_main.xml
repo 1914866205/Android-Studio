@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/text1"
+        android:text="hello"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@drawable/edittext_focus"/>
+   <TextView
+       android:text="JAVA"
+       style="@style/title"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+
+    <EditText
+        android:background="@color/colorPrimary"
+        android:id="@+id/text2"
+        android:text="world"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@drawable/edittext_focus"/>
+    <EditText
+        android:id="@+id/password"
+        android:hint="请输入密码"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登录"
+        android:textColor="@drawable/button_enable" />
+
+    <TextView
+        style="@style/context"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="爪哇" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <!--尺寸资源文件-->
+    <!--定义字体尺寸  sp-->
+    <dimen name="fone">90sp</dimen>
+    <dimen name="fone1">20sp</dimen>
+    <!--定义边距尺寸  dp-->
+    <dimen name="padding">40dp</dimen>
+    <dimen name="padding1">5dp</dimen>
+</resources>

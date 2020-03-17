@@ -1,0 +1,1 @@
+include ':app', ':contentprovider', ':handler', ':gamejindutiao', ':handler_massage', ':looper', ':service', ':backgroundmusic', ':boundservice', ':intentservice'

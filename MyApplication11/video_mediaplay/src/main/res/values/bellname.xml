@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bellname">
+        <item>音乐1</item>
+        <item>音乐2</item>
+    </array>
+
+</resources>

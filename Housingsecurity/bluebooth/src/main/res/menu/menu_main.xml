@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_settings"
+        android:title="蓝牙"></item>
+    <item android:id="@+id/enable_Visiblity"
+        android:title="打开可见">
+    </item>
+    <item android:id="@+id/find_device"
+    android:title="查找设备">
+        </item>
+    <item android:id="@+id/bonded_device"
+        android:title="已绑定设备">
+    </item>
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/bottom1"
+        android:layout_width="match_parent"
+        android:background="#4b59f1"
+        android:textColor="#FFFFFF"
+        android:text="显示带取消和确定按钮的对话框"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bottom2"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:background="#317004"
+        android:textColor="#FFFFFF"
+        android:text="显示带列表的对话框"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/bottom3"
+         android:layout_width="match_parent"
+         android:background="#f46e08"
+        android:textColor="#FFFFFF"
+        android:text="显示带单选按钮的对话框"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bottom4"
+        android:textColor="#FFFFFF"
+        android:text="显示带多选按钮的对话框"
+        android:layout_width="match_parent"
+        android:background="#08c9f4"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        />
+</LinearLayout>

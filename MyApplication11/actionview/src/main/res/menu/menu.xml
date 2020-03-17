@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/search"
+    android:title="搜索"
+    app:actionViewClass="android.support.v7.widget.SearchView"
+    app:showAsAction="always"
+    ></item>
+    <item android:id="@+id/img"
+        android:title="通讯录"
+        android:actionLayout="@layout/massagelayout"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/img2"
+        android:title="添加"
+        android:actionLayout="@layout/addlayout"
+        app:showAsAction="always"
+        ></item>
+</menu>

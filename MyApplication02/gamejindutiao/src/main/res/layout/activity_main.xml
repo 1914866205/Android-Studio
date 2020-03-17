@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="xi.lian.gamejindutiao.MainActivity">
+<ProgressBar
+    android:id="@+id/time0"
+    style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+    android:layout_width="match_parent"
+    android:max="60"
+    android:layout_height="80dp" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,4 @@
+#Sat Jul 27 16:20:31 CST 2019
+base.0=C\:\\Users\\lenovo\\StudioProjects\\MyApplication11\\sharedpreferences\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

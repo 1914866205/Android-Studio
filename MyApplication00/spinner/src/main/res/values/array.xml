@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ctype">
+        <item>全部</item>
+        <item>音乐</item>
+        <item>图书</item>
+        <item>电影</item>
+    </string-array>
+</resources>

@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="35" />
+      <entry action="$Cut" count="18" />
+      <entry action="$Delete" count="33" />
+      <entry action="$Paste" count="122" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="1947" />
+      <entry action="About" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="2" />
+      <entry action="Android Profiler" count="2" />
+      <entry action="Android.BuildApk" count="3" />
+      <entry action="Android.RunAndroidAvdManager" count="22" />
+      <entry action="Android.RunAndroidSdkManager" count="13" />
+      <entry action="Android.SyncProject" count="5" />
+      <entry action="AndroidConnectDebuggerAction" count="10" />
+      <entry action="CPP.NewCppFile" count="1" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CleanGradleProject" count="28" />
+      <entry action="CloseAllEditors" count="12" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CollapseRegion" count="6" />
+      <entry action="CollapseTreeNode" count="15" />
+      <entry action="CommentByLineComment" count="47" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Debug" count="1" />
+      <entry action="DebugClass" count="4" />
+      <entry action="Debugger.EditFrameSource" count="25" />
+      <entry action="DeveloperServices.ConnectionAssistant" count="1" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="DialogCancelAction Esc" count="4" />
+      <entry action="DialogOkAction Ctrl" count="1" />
+      <entry action="DialogOkAction Ctrl+Enter" count="2" />
+      <entry action="DialogOkAction Enter" count="225" />
+      <entry action="EditorBackSpace" count="13263" />
+      <entry action="EditorChooseLookupItem" count="4055" />
+      <entry action="EditorChooseLookupItemCompleteStatement" count="1" />
+      <entry action="EditorChooseLookupItemReplace" count="3" />
+      <entry action="EditorCompleteStatement" count="6" />
+      <entry action="EditorCopy" count="255" />
+      <entry action="EditorCut" count="94" />
+      <entry action="EditorDelete" count="1713" />
+      <entry action="EditorDeleteLine" count="10" />
+      <entry action="EditorDown" count="5575" />
+      <entry action="EditorDuplicate" count="10" />
+      <entry action="EditorEnter" count="2163" />
+      <entry action="EditorEscape" count="5" />
+      <entry action="EditorIndentSelection" count="9" />
+      <entry action="EditorLeft" count="7224" />
+      <entry action="EditorPaste" count="495" />
+      <entry action="EditorRight" count="8287" />
+      <entry action="EditorScrollUp" count="4" />
+      <entry action="EditorSplitLine" count="15" />
+      <entry action="EditorStartNewLine" count="9" />
+      <entry action="EditorTab" count="722" />
+      <entry action="EditorUp" count="3141" />
+      <entry action="ExpandLiveTemplateByTab" count="1" />
+      <entry action="ExpandRegion" count="7" />
+      <entry action="ExpandTreeNode" count="8" />
+      <entry action="FileChooser.Delete" count="9" />
+      <entry action="FileChooser.GotoHome" count="1" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="FileChooser.ShowHiddens" count="1" />
+      <entry action="Find" count="1" />
+      <entry action="FindInPath" count="1" />
+      <entry action="FindNext" count="1" />
+      <entry action="ForceStepInto" count="2" />
+      <entry action="Generate" count="45" />
+      <entry action="GenerateJavadoc" count="4" />
+      <entry action="GoogleLogin.LoginService" count="3" />
+      <entry action="GotoDeclaration" count="41" />
+      <entry action="HideAllWindows" count="81" />
+      <entry action="HippieCompletion" count="18" />
+      <entry action="ImportProject" count="2" />
+      <entry action="InspectCode" count="1" />
+      <entry action="JShell.Console" count="1" />
+      <entry action="JumpToLastWindow" count="2" />
+      <entry action="Kotlin.NewFile" count="2" />
+      <entry action="LoadUnloadModules" count="1" />
+      <entry action="MakeGradleModule" count="2" />
+      <entry action="MakeGradleProject" count="6" />
+      <entry action="MakeModule" count="1" />
+      <entry action="MethodDown" count="1" />
+      <entry action="MethodUp" count="6" />
+      <entry action="Move" count="4" />
+      <entry action="NewClass" count="27" />
+      <entry action="NewDir" count="19" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewModule" count="10" />
+      <entry action="NewModuleInGroup" count="61" />
+      <entry action="NewProject" count="20" />
+      <entry action="NextTemplateVariable" count="3" />
+      <entry action="OpenFil

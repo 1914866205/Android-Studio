@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--数组资源-->
+    <!--字符串数组-->
+    <string-array name="array1">
+        <item>Hello</item>
+        <item>World</item>
+        <item>Java</item>
+    </string-array>
+
+    <integer-array name="bgcolor">
+        <item>0xBBE24A83</item>
+        <item>0xBB318AD6</item>
+        <item>0xBBD73943</item>
+        <item>0xBBE69A08</item>
+        <item>0xBBD9663</item>
+        <item>0xBBD45ABC</item>
+        <item>0xBB8064D2</item>
+        <item>0xBB4AA6D6</item>
+        <item>0xBB8064D2</item>
+        <item>0xBBF7A81E</item>
+    </integer-array>
+
+    <string-array name="word">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>

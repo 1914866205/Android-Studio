@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--菜单项-->
+    <item android:id="@+id/pre1" android:title="上一页"></item>
+    <item android:id="@+id/next1" android:title="下一页"></item>
+
+
+</menu>

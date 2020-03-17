@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionbar_tab" />
+            <option value="$PROJECT_DIR$/actionview" />
+            <option value="$PROJECT_DIR$/aliiarmmanager" />
+            <option value="$PROJECT_DIR$/alterdialog" />
+            <option value="$PROJECT_DIR$/animationdrawable" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/beiwanglu" />
+            <option value="$PROJECT_DIR$/broadcastreceiver" />
+            <option value="$PROJECT_DIR$/bujiandonghua" />
+            <option value="$PROJECT_DIR$/bujiandonghuatest" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/cengjishidaohang" />
+            <option value="$PROJECT_DIR$/dbopenhelper" />
+            <option value="$PROJECT_DIR$/musicmediaplay" />
+            <option value="$PROJECT_DIR$/musicmediaplaytest" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/paint" />
+            <option value="$PROJECT_DIR$/paintpath" />
+            <option value="$PROJECT_DIR$/painttext" />
+            <option value="$PROJECT_DIR$/paintview" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/soundpool" />
+            <option value="$PROJECT_DIR$/videoView" />
+            <option value="$PROJECT_DIR$/video_mediaplay" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

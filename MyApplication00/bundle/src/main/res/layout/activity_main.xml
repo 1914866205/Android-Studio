@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="请输入信息"
+        android:id="@+id/wb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/dizhi"
+        android:hint="请输入所在地区"
+        android:layout_below="@+id/wb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+    android:id="@+id/dizhi1"
+    android:hint="请输入所在街道信息"
+    android:layout_below="@+id/dizhi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/dizhi2"
+        android:hint="请输入所在详细信息"
+        android:layout_below="@+id/dizhi1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/xm"
+        android:hint="请输入收货人姓名"
+        android:layout_below="@+id/dizhi2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/tel"
+        android:hint="请输入收货人电话"
+        android:layout_below="@+id/xm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/mail"
+        android:hint="请输入收货人邮箱"
+        android:layout_below="@+id/tel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt"
+        android:layout_below="@+id/mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#edd414"
+         android:text="提交"
+
+    />
+
+
+</RelativeLayout>

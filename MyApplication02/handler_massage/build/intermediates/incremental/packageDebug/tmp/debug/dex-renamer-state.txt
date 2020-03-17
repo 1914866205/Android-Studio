@@ -1,0 +1,4 @@
+#Sat Jul 27 13:30:09 CST 2019
+base.0=C\:\\Users\\lenovo\\StudioProjects\\MyApplication02\\handler_massage\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

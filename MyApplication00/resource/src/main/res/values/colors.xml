@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--定义颜色资源   #+F+十六进制透明度+十六进制rgb-->
+    <color name="bg">#660000FF</color>
+    <color name="title">#FF6600</color>
+    <color name="wordcolor">#FFFFFF</color>
+    <color name="C1">#BBE24A83</color>
+    <color name="C2">#BB318AD6</color>
+    <color name="C3">#BBD73943</color>
+    <color name="C4">#BBE69AD8</color>
+    <color name="C5">#BBBD6693</color>
+    <color name="C6">#BBB45ABC</color>
+    <color name="C7">#BB4AA6D6</color>
+    <color name="C8">#BB8064D2</color>
+    <color name="C9">#BBF7A81E</color>
+
+</resources>
